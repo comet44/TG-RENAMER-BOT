@@ -11,7 +11,7 @@
     ],
 
     "repository": "https://github.com/Ns-AnoNymouS/Renamer",
-    "stack": "heroku-20",
+    "stack": "heroku-22",
     "website": "https://t.me/Ns_bot_updates",
     "success_url": "https://t.me/RenamerNs_bot",
 
